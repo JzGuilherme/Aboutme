@@ -9,7 +9,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?color=ffffff&size=30&center=false&vCenter=true&width=1000&lines=>+👋+Olá Mundo!+Meu+nome+é+Guilherme.;>+👋+Hello World!+My+name+is+Guilherme.;>+👋+¡Hola Mundo!+Mi+nombre+es+Guilherme." />
 <img src="https://readme-typing-svg.herokuapp.com/?color=636363&size=24&center=false&vCenter=true&width=1000&lines=>+Sergipe,+Brasil+📍;>+Sergipe,+Brazil+📍;>+Sergipe,+Brasil+📍" />
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=ffffff&size=30&center=true&vCenter=true&width=1000&lines=>+SOU+UM+DESENVOLVEDOR+FRONT-END!;>+I+AM+A+FRONT-END+DEVELOPER!;>+SOY+UN+DESARROLLADOR+FRONT-END!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=ffffff&size=30&center=true&vCenter=true&width=1000&lines=>+SOU+UM+ESTUDANTE+DE-ANÁLISE+E+DESENVOLVIMENTO+DE+SISTEMAS!;>+I+AM+A+STUDENT+OF+SYSTEMS+ANALYSIS+AND+DEVELOPMENT!;>+SOY+UN+ESTUDIANTE+DE+ANÁLISIS+Y+DESARROLO+DE+SISTEMAS!;" />
 <p align="justify">
     💬 Olá, sou José Guilherme! Sou um entusiasta desenvolvedor web front-end e me dedico bastante, projetando um futuro agradável para mim. Estou no processo de desenvolvimento para progredir nesse meio, por meio da criação de interfaces e códigos limpos, a desenvolver websites responsivos que trazem uma experiência agradável aos usuários. Vivendo mudanças bruscas ao longo de minha vivência acadêmica, sou hábil no desenvolvimento de práticas em equipe. Movido a disciplina!
   </p>
