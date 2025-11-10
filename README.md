@@ -1,6 +1,6 @@
 <img class="imagem-invertida" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1877f2&height=100&section=footer"/>
-<stlye>
-.imagem-invertida {
+<stlye type="imagem-inverida">
+.img{
   transform: scaleY(-1);
 }   
 </stlye>
