@@ -6,7 +6,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?color=636363&size=14&center=false&vCenter=true&width=1000&lines=lang>+@echo+>+pt-br;lang>+@echo+>+en;lang>+@echo+>+es;" />
 
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=ffffff&size=30&center=false&vCenter=true&width=1000&lines=>+👋+Olá!+Meu+nome+é+Guilherme.;>+👋+Hello!+My+name+is+Guilherme.;>+👋+¡Hola!+Mi+nombre+es+Guilherme." />
+<img src="https://readme-typing-svg.herokuapp.com/?color=ffffff&size=30&center=false&vCenter=true&width=1000&lines=>+👋+Olá Mundo!+Meu+nome+é+Guilherme.;>+👋+Hello World!+My+name+is+Guilherme.;>+👋+¡Hola Mundo!+Mi+nombre+es+Guilherme." />
 <img src="https://readme-typing-svg.herokuapp.com/?color=636363&size=24&center=false&vCenter=true&width=1000&lines=>+Sergipe,+Brasil+📍;>+Sergipe,+Brazil+📍;>+Sergipe,+Brasil+📍" />
 
 <img src="https://readme-typing-svg.herokuapp.com/?color=ffffff&size=30&center=true&vCenter=true&width=1000&lines=>+SOU+UM+DESENVOLVEDOR+FRONT-END!;>+I+AM+A+FRONT-END+DEVELOPER!;>+SOY+UN+DESARROLLADOR+FRONT-END!;" />
