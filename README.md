@@ -19,9 +19,8 @@
 <div align="center">
 <p>🤖 Estastísticas</p>
 
-
 <a href="https://github.com/JzGuilherme/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=franklyndev&show_icons=true&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JzGuilherme&show_icons=true&theme=radical" />
 </a>
 </div>
 
