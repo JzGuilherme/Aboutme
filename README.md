@@ -11,7 +11,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?color=ffffff&size=30&center=true&vCenter=true&width=1000&lines=>+SOU+UM+DESENVOLVEDOR+FRONT-END!;>+I+AM+A+FRONT-END+DEVELOPER!;>+SOY+UN+DESARROLLADOR+FRONT-END!;" />
 <p align="justify">
-    💬 Olá, sou José Guilherme! Sou um entusiasta desenvolvedor web front-end e me dedico bastante, projetando um futuro agradável para mim. Estou no processo de desenvolvimento para progredir nesse meio, por meio da criação de interfaces e códigos limpos, a desenvolver websites responsivos que trazem uma experiência agradável aos usuários. Vivendo mudanças bruscas ao longo de minha vivência acadêmica, sou hábil no desenvolvimento de práticas em equipe. 
+    💬 Olá, sou José Guilherme! Sou um entusiasta desenvolvedor web front-end e me dedico bastante, projetando um futuro agradável para mim. Estou no processo de desenvolvimento para progredir nesse meio, por meio da criação de interfaces e códigos limpos, a desenvolver websites responsivos que trazem uma experiência agradável aos usuários. Vivendo mudanças bruscas ao longo de minha vivência acadêmica, sou hábil no desenvolvimento de práticas em equipe. Movido a disciplina!
   </p>
 <div align="center">  
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joa0Gustav0&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
