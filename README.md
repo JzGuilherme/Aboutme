@@ -1,4 +1,4 @@
-<img src="https://lh3.googleusercontent.com/gg-dl/ABS2GSldnoufdes4GIDR9oVzY_-7yRwScDvDqqzpjN7l6YLsrXmRjJZGSsG-N2XkBVpy9XDlHc53p26kvOo9-mTYIdhJwWaMTOJknNi2oobq-qGYPHVlxfENaOTjrgjonCFPOs1r8hEavc-EnDAsHla2TyX3LUYI9SBVUPS5TE5HtnBiKJo6VA=s1024-rj" width="100%" />
+
 <div align="right">
   <abbr title="Github"></abbr><a href="https://github.com/JzGuilherme"><img src="https://skillicons.dev/icons?i=github" width="50px" /></a></abbr>
   <abbr title="LinkedIn"><a href="https://www.linkedin.com/in/jos%C3%A9--guilherme/"><img src="https://skillicons.dev/icons?i=linkedin" width="50px" /></a></abbr>
