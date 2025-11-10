@@ -1,9 +1,13 @@
 <img class="imagem-invertida" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1877f2&height=100&section=footer"/>
+<html>
+  <head>
 <stlye type="imagem-inverida">
 .img{
   transform: scaleY(-1);
 }   
 </stlye>
+  </head>
+</html>
 
 <div align="right">
   <abbr title="Github"></abbr><a href="https://github.com/JzGuilherme"><img src="https://skillicons.dev/icons?i=github" width="50px" /></a></abbr>
