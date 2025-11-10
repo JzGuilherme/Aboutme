@@ -18,6 +18,13 @@
 </div>
 
 
+<p>🤖 Estastísticas</p>
+
+
+<a href="https://github.com/JzGuilherme/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=franklyndev&show_icons=true&theme=radical" />
+</a>
+
 <h2>Minhas Habilidades:</h2>
 <p>Front-End:</p>
 <img src="https://skillicons.dev/icons?i=html,css,js,git" />
@@ -25,13 +32,6 @@
 <img src="https://skillicons.dev/icons?i=python,mysql" />
 <hr>
 </div>
-
-🤖 Estastísticas
-
-
-<a href="https://github.com/JzGuilherme/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=franklyndev&hide=gdscript&show_icons=true&theme=radical&layout=compact&langs_count=8&card_width=320" />
-</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1877f2&height=100&section=footer"/>
 
