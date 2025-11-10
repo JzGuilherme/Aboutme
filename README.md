@@ -1,76 +1,29 @@
-
-# 👨🏿‍💻 José Guilherme
-
-**`Desenvolvedor Estagiário-Front-End`**
-
-Me chamo José Guilherme, tenho 19 anos e sou natural de Sergipe. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNINASSAU. Gosto muito de tecnologia e compartilho minhas experiências através do meu canal no "[Youtube](https://www.youtube.com/@otabareuqfazprograma)", onde posteriormente estarei inserindo mais conteúdo nele e de fato o tornando-o ativo.
-<p align="left">
-  <a href="https://www.linkedin.com/in/jos%C3%A9-g-59ab23257/" target="_blank">
-  <img 
-    alt="LinkedIn" 
-    title="Visite meu LinkedIn" 
-    src="https://img.shields.io/badge/LinkedIn-José%20G.-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
-  />
-</a>
+<img src="https://media.licdn.com/dms/image/D4E16AQHKM0mkxalJyg/profile-displaybackgroundimage-shrink_350_1400/0/1703712792043?e=1726099200&v=beta&t=oidWjW6wU4MeDxt2GWCqFEA-PWYoiq4wIUB-aOyoNqM" width="100%" />
+<div align="right">
+  <abbr title="Github"></abbr><a href="https://github.com/JzGuilherme"><img src="https://skillicons.dev/icons?i=github" width="50px" /></a></abbr>
+  <abbr title="LinkedIn"><a href="https://www.linkedin.com/in/jos%C3%A9--guilherme/"><img src="https://skillicons.dev/icons?i=linkedin" width="50px" /></a></abbr>
+</div>
+<img src="https://readme-typing-svg.herokuapp.com/?color=636363&size=14&center=false&vCenter=true&width=1000&lines=lang>+@echo+>+pt-br;lang>+@echo+>+en;lang>+@echo+>+es;" />
 
 
----
+<img src="https://readme-typing-svg.herokuapp.com/?color=ffffff&size=30&center=false&vCenter=true&width=1000&lines=>+👋+Olá!+Meu+nome+é+Guilherme.;>+👋+Hello!+My+name+is+Guilherme.;>+👋+¡Hola!+Mi+nombre+es+Guilherme." />
+<img src="https://readme-typing-svg.herokuapp.com/?color=636363&size=24&center=false&vCenter=true&width=1000&lines=>+Sergipe,+Brasil+📍;>+Sergipe,+Brazil+📍;>+Sergipe,+Brasil+📍" />
 
-### 🤖 Linguagens e Tecnologias
+<img src="https://readme-typing-svg.herokuapp.com/?color=ffffff&size=30&center=true&vCenter=true&width=1000&lines=>+SOU+UM+DESENVOLVEDOR+FRONT-END!;>+I+AM+A+FRONT-END+DEVELOPER!;>+SOY+UN+DESARROLLADOR+FRONT-END!;" />
+<p align="justify">
+    💬 Olá, sou José Guilherme! Sou um entusiasta desenvolvedor web front-end e me dedico bastante, projetando um futuro agradável para mim. Estou no processo de desenvolvimento para progredir nesse meio, por meio da criação de interfaces e códigos limpos, a desenvolver websites responsivos que trazem uma experiência agradável aos usuários. Vivendo mudanças bruscas ao longo de minha vivência acadêmica, sou hábil no desenvolvimento de práticas em equipe. 
+  </p>
+<div align="center">  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joa0Gustav0&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
+</div>
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+<h2>Minhas Habilidades:</h2>
+<p>Front-End:</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,git" />
+<p>Back-End:</p>
+<img src="https://skillicons.dev/icons?i=python,mysql" />
+<hr>
+</div>
 
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=JzzGuilherme&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JzGuilherme&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1877f2&height=100&section=footer"/>
