@@ -16,14 +16,14 @@
 <div align="center">  
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JzGuilherme&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
 </div>
-
-
+<div>
 <p>🤖 Estastísticas</p>
 
 
 <a href="https://github.com/JzGuilherme/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=franklyndev&show_icons=true&theme=radical" />
 </a>
+</div>
 
 <h2>Minhas Habilidades:</h2>
 <p>Front-End:</p>
